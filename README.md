@@ -52,6 +52,16 @@ Visit  http://127.0.0.1:8000 in your web browser.
 ![Screenshot (42)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/c978127f-8a50-4ad8-9b03-671d069e89c4)
 
 
+![Screenshot (49)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/393beff3-0c56-441c-905a-d7f49e8519df)
+
+
+![Screenshot (50)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/8c3125fd-d09f-4d92-9a81-d51b46729d0a)
+
+![Screenshot (51)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/fc54f2ff-e22a-4524-96b2-6113e18677e4)
+
+![Screenshot (52)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/c40fe20e-969c-465e-9118-2596013964a2)
+
+
 ![Screenshot (43)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/370ec69b-bef9-439f-b2ae-b3dd94b25d27)
 
 ![Screenshot (44)](https://github.com/Alwin200218/Doctor-Application/assets/114205948/df4da5fd-e065-4e59-9ed1-191e435d893d)
