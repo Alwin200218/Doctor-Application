@@ -7,35 +7,38 @@ Welcome to the Doctor Appointment Django application repository! This project ai
 
 # #Features
 
-User Registration and Authentication: Patients and doctors can register and log in securely.
+**User Registration and Authentication**: Patients and doctors can register and log in securely.
 
-Appointment Booking: Patients can view available time slots and book appointments with their preferred doctors.
+**Appointment Booking**: Patients can view available time slots and book appointments with their preferred doctors.
 
-Doctor Availability Management: Doctors can set their availability and manage their schedules.
+**Doctor Availability Management**: Doctors can set their availability and manage their schedules.
 
-Patient Dashboard: Patients can view their upcoming appointments, past appointments, and update their profiles.
+**Patient Dashboard**: Patients can view their upcoming appointments, past appointments, and update their profiles.
 
-Admin Panel: Admins can manage doctors, patients, appointments, and view analytics.
+**Admin Panel**: Admins can manage doctors, patients, appointments, and view analytics.
 
-# # Installation
+# Installation
+**Clone the repository:**
 
-1. Clone the repository: `git clone https://github.com/bharath3138/bus-pass-application.git`
+**bash**
+Copy code
+git clone`(https://github.com/Alwin200218/E-Commerce-Web-Application/tree/main/E-Commerce%20WebApp)`
 
-2. Install dependencies: `Flask`
+**Install dependencies:**
+Copy code
+pip install Django
+Configure environment variables for database.
 
-3. Configure environment variables for database and payment gateway integration.
+**Run the application:**
+Copy code
+python app.py
+Visit  http://127.0.0.1:8000 in your web browser.
 
-4. Visit `localhost:http://127.0.0.1:5000` in your web browser.
+# Technologies Used
+**Backend:** Python Django
+**Frontend:** HTML, CSS, JavaScript , Bootstrap
+**Database:** SQLite3
 
-# # Technologies Used
+# Demo
 
-- Python Flask for the backend.
-- HTML , CSS , JavaScript for the frontend.
-- SQLite3 for database storage.
-- Payment gateway integration for online payments.
-
-
-# # Azure services
--App services
--Azure monitor
--Custum DNS
+# Demo Images: 
